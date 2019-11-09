@@ -1,4 +1,4 @@
-# Workshop
+# Workshop AIChE 2019
 This repository provides example and instruction to learn about GOMC and its capabilities to perform adsorption simulaiton and free energy calculation.
 In each directory, there is a README.txt or pdf file to instruct the user.
 
